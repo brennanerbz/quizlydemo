@@ -1,6 +1,6 @@
-# Instaquiz
+# QuizlyDemo
 
-This is the client for Instaquiz, a tool which can turn Wikipedia pages into practice tests.
+This is the client for QuizlyDemo, a tool which can turn Wikipedia pages into practice tests.
 
 ## Installation
 

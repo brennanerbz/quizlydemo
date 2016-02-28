@@ -1,18 +1,18 @@
 {
-  "name": "instaquiz",
+  "name": "quizlydemo",
   "version": "0.0.1",
   "description": "Instantly turn Wikipedia article into quiz questions",
   "main": "bin/server.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brennanerbz/instaquiz.git"
+    "url": "git+https://github.com/brennanerbz/quizlydemo.git"
   },
   "author": "Brennan Erbeznik & Nathan Lomeli",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/brennanerbz/instaquiz/issues"
+    "url": "https://github.com/brennanerbz/quizlydemo/issues"
   },
-  "homepage": "https://github.com/brennanerbz/instaquiz#readme",
+  "homepage": "https://github.com/brennanerbz/quizlydemo#readme",
   "scripts": {
     "start": "concurrent --kill-others \"npm run start-prod\"",
     "start-prod": "better-npm-run start-prod",
