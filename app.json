@@ -1,7 +1,7 @@
 {
-  "name": "Instaquiz",
+  "name": "Quizly Demo",
   "description": "Instantly turn Wikipedia article into quiz questions",
-  "repository": "https://github.com/brennanerbz/instaquiz",
+  "repository": "https://github.com/brennanerbz/quizlydemo",
   "keywords": [
     "react",
     "redux",

@@ -16,14 +16,14 @@ module.exports = Object.assign({
   apiHost: '127.0.0.1',
   apiPort: '5000',
   app: {
-    title: 'Instaquiz',
+    title: 'Quizly',
     description: 'Instantly turn any Wikipedia page into quiz questions.',
     head: {
-      titleTemplate: 'Instaquiz',
+      titleTemplate: 'Quizly',
       meta: [
         {name: 'description', content: 'Instantly turn any Wikipedia page into quiz questions.'},
         {charset: 'utf-8'},
-        {property: 'og:title', content: 'Instaquiz'},
+        {property: 'og:title', content: 'Quizly'},
         {property: 'og:description', content: 'Instantly turn any Wikipedia page into quiz questions.'}
       ]
     }
